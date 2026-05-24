@@ -2,22 +2,22 @@
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![DaisyUI](https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)](https://daisyui.com/)
 
-**Stop searching. Start playing.** GameFinder is a sleek, modern web application that curates all the best free-to-play games from across the internet, putting them at your fingertips. Built for speed and a great user experience, it's your new home for free gaming.
+**Stop searching. Start playing.** Gamezzz is a sleek, modern web application that curates all the best free-to-play games from across the internet, putting them at your fingertips. Built for speed and a great user experience, it's your new home for free gaming.
 
 
-## ✨ What Makes GameFinder Awesome?
+## ✨ What Makes Gamezzz Awesome?
 
 *   **The Ultimate Free Game Library**: We aggregate free games from various sources, so you don't have to hunt the web. From AAA freebies to hidden indie gems, find them all in one place.
 *   **Blazing Fast & Responsive**: Built with **React** and **Vite** for instant loading, and styled with **Tailwind CSS** and **DaisyUI** for a beautiful, seamless experience on any device.
 *   **Smart Filters**: The foundation for powerful filtering is available. You can sort by genre, platform, developers, and more to find your perfect game.
-*   **Clean & Intuitive Design**: A polished, modern interface that focuses on what matters: the games. The dedicated hero section welcomes you to a world of play.
-
-## 🚀 Get Started in a Flash
-
-Ready to dive into the code or run GameFinder locally? It's super simple.
+*   **Clean & Intuitive Design**: A polished, responsive and modern interface that focuses on what matters: the games. The dedicated hero section welcomes you to a world of play.
 
 ## 🎮 Live Demo Link: 
 https://gamezzz-two.vercel.app/
+
+## 🚀 Get Started in a Flash
+
+Ready to dive into the code or run Gamezzz locally? It's super simple.
 
 ### Prerequisites
 Make sure you have **Node.js** (which includes npm) installed on your machine.
@@ -26,12 +26,12 @@ Make sure you have **Node.js** (which includes npm) installed on your machine.
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/Ankitjha1307/GameFinder.git
+    git clone https://github.com/Ankitjha1307/Gamezzz.git
 
 2. Navigate to the project directory
 
      bash
-     cd GameFinder
+     cd Gamezzz
 
 3. Install dependencies
 
@@ -53,7 +53,7 @@ Styling: Tailwind CSS for utility-first styling, supercharged by DaisyUI for bea
 Code Quality: Configured with ESLint to maintain clean, consistent code. Ready to scale up with TypeScript!
 
 🤝 How You Can Contribute
-GameFinder is an evolving project, and contributions are what make the open-source community so amazing. Here are a few ideas on how you can jump in:
+Gamezzz is an evolving project, and contributions are what make the open-source community so amazing. Here are a few ideas on how you can jump in:
 
 🐛 Report a Bug: Found something broken? Open an issue and tell us about it.
 
