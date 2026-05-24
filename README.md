@@ -9,7 +9,7 @@
 
 *   **The Ultimate Free Game Library**: We aggregate free games from various sources, so you don't have to hunt the web. From AAA freebies to hidden indie gems, find them all in one place.
 *   **Blazing Fast & Responsive**: Built with **React** and **Vite** for instant loading, and styled with **Tailwind CSS** and **DaisyUI** for a beautiful, seamless experience on any device.
-*   **Smart Filters **: The foundation for powerful filtering is available. You can sort by genre, platform, developers, and more to find your perfect game.
+*   **Smart Filters**: The foundation for powerful filtering is available. You can sort by genre, platform, developers, and more to find your perfect game.
 *   **Clean & Intuitive Design**: A polished, modern interface that focuses on what matters: the games. The dedicated hero section welcomes you to a world of play.
 
 ## 🚀 Get Started in a Flash
