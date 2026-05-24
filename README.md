@@ -1,4 +1,4 @@
-# 🎮 GameFinder: Your Gateway to Unlimited Free Games
+# 🎮 Gamezzz: Your Gateway to Unlimited Free Games
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![DaisyUI](https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)](https://daisyui.com/)
 
@@ -9,12 +9,15 @@
 
 *   **The Ultimate Free Game Library**: We aggregate free games from various sources, so you don't have to hunt the web. From AAA freebies to hidden indie gems, find them all in one place.
 *   **Blazing Fast & Responsive**: Built with **React** and **Vite** for instant loading, and styled with **Tailwind CSS** and **DaisyUI** for a beautiful, seamless experience on any device.
-*   **Smart Filters **: The foundation for powerful filtering is being laid. Soon you'll be able to sort by genre, platform, popularity, and more to find your perfect game.
+*   **Smart Filters **: The foundation for powerful filtering is available. You can sort by genre, platform, developers, and more to find your perfect game.
 *   **Clean & Intuitive Design**: A polished, modern interface that focuses on what matters: the games. The dedicated hero section welcomes you to a world of play.
 
 ## 🚀 Get Started in a Flash
 
 Ready to dive into the code or run GameFinder locally? It's super simple.
+
+## 🎮 Live Demo Link: 
+https://gamezzz-two.vercel.app/
 
 ### Prerequisites
 Make sure you have **Node.js** (which includes npm) installed on your machine.
@@ -58,12 +61,7 @@ GameFinder is an evolving project, and contributions are what make the open-sour
 
 🛠️ Submit a Pull Request: Ready to code? Check out the open issues, or propose your own improvement.
 
-Look for the "setting up filters part 1" commit – that's a great starting point for enhancing the filtering functionality!
-
 📜 License
 This project is open-source and available under the MIT License. (You should add a LICENSE file to your repo!)
 
-Made with ❤️ by Ankit Jha and the amazing contributors who help make GameFinder the best place for free games. Happy gaming!
-
-https://img.shields.io/github/stars/Ankitjha1307/GameFinder?style=social
-https://img.shields.io/github/followers/Ankitjha1307?style=social
+Made with ❤️for games and gaming by Ankit Jha. Happy gaming!😁
